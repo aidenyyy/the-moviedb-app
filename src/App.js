@@ -1,5 +1,5 @@
+import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
 import Favorite from './components/Favorite';
 import Home from './components/Home';
 import Navbar from './components/header/Navbar';
